@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: thassian-spiral-duct
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./public
+    envVars: []
